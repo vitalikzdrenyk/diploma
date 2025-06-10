@@ -56,6 +56,13 @@
 
 ## ▶️ Як запустити проєкт "з нуля"
 
+~~~bash
+git clone https://github.com/vitalikzdrenyk/diploma.git
+cd diploma
+flutter pub get
+flutter run
+~~~
+
 ### 1. Встановлення інструментів
 
 - Flutter SDK
@@ -106,7 +113,7 @@ flutter run
 - Flutter Documentation
 - pub.dev
 - StackOverflow
-- ласні напрацювання
+- власні напрацювання
 
 ---
 ## Screenshots
